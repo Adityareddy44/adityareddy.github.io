@@ -5,7 +5,7 @@ Welcome to my portfolio website repository! This project showcases my skills, pr
 - [Intro](#Intro)
 - [Education](#Education)
 - [Skills](#Skills)
-- [Experince](#Experince)
+- [Experience](#Experience)
 - [Projects](#projects)
 - [Contact](#Contact)
 
